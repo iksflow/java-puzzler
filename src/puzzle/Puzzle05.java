@@ -32,10 +32,8 @@ public class Puzzle05 {
 		System.out.println(String.format("%16s", Long.toHexString(0xcafebabeL)).replace(" ", "0"));
 		System.out.println(String.format("%16s", Long.toHexString(0x100000000L)).replace(" ", "0"));
 		System.out.println("----------------");
-		System.out.println(String.format("%16s", Long.toHexString(0x100000000L + 0xcafebabe)).replace(" ", "0"));
+		System.out.println(String.format("%16s", Long.toHexString(0x100000000L + 0xcafebabeL)).replace(" ", "0"));
 		
-		System.out.println(Integer.valueOf(0xcafebabe));
-		System.out.println(Long.valueOf(0xcafebabeL));
 	}
 
 }
