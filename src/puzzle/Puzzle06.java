@@ -8,10 +8,10 @@ public class Puzzle06 {
 		char c = (char)b;
 		int i = (int)c;
 		// 0xFF : 비트마스크
-		System.out.println(b);
+		System.out.println(Integer.toBinaryString(-1));
 		System.out.println(c);
 		System.out.println(i);
-		System.out.println(Integer.toBinaryString(1024));
+		System.out.println(0xFF);
 	}
 
 }

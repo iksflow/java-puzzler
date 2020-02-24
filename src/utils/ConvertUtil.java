@@ -1,6 +1,6 @@
 package utils;
 
-public class ConvertUtil {
+public final class ConvertUtil {
 	public static String spliter(String s, int len, String delimiter) {
 		StringBuilder sb = new StringBuilder(s);
 		sb.reverse();
