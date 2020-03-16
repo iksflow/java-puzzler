@@ -1,13 +1,14 @@
 package puzzle;
 
-public class Puzzle09 {
+public class Puzzle10 {
 
 	public static void main(String[] args) {
-		short x = 0;
-		int i = 123456;
-		x += i;
+		Object x = "Hello";
+		String i = "123";
 //		x = x + i;
+		x += i;
 		System.out.println(x);
+		
 	}
 
 }
