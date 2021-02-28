@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaPuzzler.iml" filepath="$PROJECT_DIR$/JavaPuzzler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-puzzler.iml" filepath="$PROJECT_DIR$/java-puzzler.iml" />
     </modules>
   </component>
 </project>
