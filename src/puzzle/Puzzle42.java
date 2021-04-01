@@ -13,7 +13,7 @@ public class Puzzle42 {
                     successCount++;
             }
         } catch (ArrayIndexOutOfBoundsException e) {
-
+            // 에러
         }
         System.out.println(successCount);
     }
