@@ -2,7 +2,7 @@ package puzzle;
 
 public class Puzzle50 {
     public static void main(String[] args) {
-
-        System.out.println();
+        String s = null;
+        System.out.println(s instanceof String);
     }
 }
